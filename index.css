@@ -241,3 +241,30 @@ background:  #303031;
    flex-direction: column;
     gap: 24px;
 }
+.dotes{
+    height: 72px;
+    width: 100%;
+    background-image: url(image/Ellipse\ 5.png);
+}
+.dotes1{
+    width: 292px;
+    height: 292px;
+    background-image: url(image/Ellipse\ 5.png);
+    position: absolute;
+    margin-left: 48px;
+    margin-top: 350px;
+}
+button{
+    border: none;
+}
+ul{
+    gap: 40px;
+}
+li{
+    color: var(--Black, #303031);
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
